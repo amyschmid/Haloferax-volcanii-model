@@ -1,0 +1,20 @@
+rxn_10147_KEGG,Dihydrodipicolinate synthase,HVO_1101,Aspartate semialdehyde,Pyruvate,"""=>""",Dihydrodipicolinate,H2O,
+,,,cpd00346_c0,cpd00868_c0,,cpd20258_KEGG,cpd00001_c0,
+,,,,,,,,
+rxn_04199_KEGG,Dihydrodipicolinate reductase,HVO_1100,Dihydrodipicolinate,NADPH,H+,"""=>""",Tetrahydrodipicolinate,NADP
+,,,cpd20258_KEGG,cpd00005_c0,cpd00067_c0,,cpd02465_c0,cpd00006_c0
+,,,,,,,,
+rxn_04475_KEGG,N-Succinyldiaminopimelate aminotransferase,HVO_0043,N_Succinyl_L_2_amino_6_oxopimelate,Glutamate,"""<=>""",N_Succinyl_LL_2_6_diaminopimelate,a-Ketoglutarate,
+,,,cpd02724_c0,cpd00023_c0,,cpd04462_KEGG,cpd00024_c0,
+,,,,,,,,
+rxn_02734_KEGG,N-Succinyldiaminopimelate desuccinylase,HVO_B0002,N_Succinyl_LL_2_6_diaminopimelate,H2O,"""=>""",LL_2_6_diaminopimelate,Succinate,H+
+,,,cpd04462_KEGG,cpd00001_c0,,cpd00504_c0,cpd00036_c0,cpd00067_c0
+,,,,,,,,
+rxn_02019_KEGG,Ribonucleotide reductase (GDP reaction),NVO_2452,GDP,ox. Thioredoxin,H2O,"""=>""",dGDP,red. Thioredoxin
+,,,cpd00031_c0,cpd11420_c0,cpd00001_c0,,cpd00295_c0,cpd11421_c0
+,,,,,,,,
+rxn_00959_KEGG,Phosphoglucomutase,HVO_0199,Glucose_6_phosphate,"""<=>""",Glucose_1_phosphate,,,
+,,,cpd00079_c0,,cpd00089_c0,,,
+,,,,,,,,
+rxn_00289_KEGG,UDP-glucose pyrophosphorylase/Glucose-1-phosphate uridylyltransferase,HVO_1527,Glucose_1_phosphate,UTP,"""<=>""",UDP-glucose,Pyrophosphate,
+,,,cpd00089_c0,cpd00062_c0,,cpd00026_c0,cpd00012_c0,

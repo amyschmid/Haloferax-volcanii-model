@@ -1,0 +1,9 @@
+ID of rxn,Name,Gene,,,,,,
+rxn_05680_KEGG,Glycerol-1-phosphate reductase,HVO_0822,DHAP,NADPH,H+,"""<=>""",Glycerol_1_Phosphate_c0,NADP
+,,,cpd00095_c0,cpd00005_c0,cpd00067_c0,,cpd00623_KEGG_c0,cpd00006_c0
+,,,,,,,,
+rxn_04158_KEGG,Glycerol-1-phosphate geranylgeranyltransferase,HVO_0680,Glycerol_1_Phosphate_c0,Geranylgeranyl-PP,"""=>""",Geranylgeranyl-glycerol-1P,,
+,,,cpd00623_KEGG_c0,cpd00289_c0,,cpd02797_c0,,
+,,,,,,,,
+rxn_02063_KEGG,Lipid geranylgeranyl reductase,HVO_1396,"2,3-bis-O-geranylgeranyl glycerol 1P",8 NADPH,8 H+,"""=>""",2_3_bis_O_phytanyl_glycerol_1_P_c0,8 NADP
+,,,cpd02824_c0,cpd00005_c0,cpd00067_c0,,cpd_13863_KEGG_c0,cpd00006_c0

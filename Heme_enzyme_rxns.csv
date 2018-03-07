@@ -1,0 +1,12 @@
+ID of rxn (or EC number if not in KEGG),Name,Gene ID association,,,,,
+rxn_EC_4_1_1_,NirDL/NirGH,HVO_2227 or HVO_2313,Siroheme,2 H+,"""=>""",Didecarboxy_siroheme,2 CO2
+,,,cpd00557,cpd00067,,MetaCyc_17068,cpd00149
+,,,,,,,
+rxn_EC_4_1_3_,AhbC,HVO_1121,Didecarboxy_siroheme,"""=>""",Fe_coproporphyrin,2 Acetate,
+,,,MetaCyc_17068,,MetaCyc_17070,cpd00029,
+,,,,,,,
+rxn_EC_1_3_98_M2,AhbD,HVO_2144,Fe_coproporphyrin,2 H+,"""=>""",Heme,2 CO2
+,,,MetaCyc_17070,cpd00067,,cpd00028,cpd00149
+,,,,,,,
+rxn_EC_1_3_99_,PitA/HemQ,HVO_1871,Fe_coproporphyrin,2 H+,"""=>""",Heme,2 CO2
+,,,MetaCyc_17070,cpd00067,,cpd00028,cpd00149

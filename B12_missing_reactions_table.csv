@@ -1,0 +1,12 @@
+ID of rxn (or EC number),Name,Gene ID association,,,,,,,,
+rxn_05217_KEGG,CobG,Unknown,Precorrin-3A,NADH,H+,O2,"""=>""",Precorrin-3B,NAD+,H2O
+,,,cpd03420_c0,cpd00004_c0,cpd00067_c0,cpd00007_c0,,cpd03833_c0,cpd00003_c0,cpd00001_c0
+,,,,,,,,,,
+rxn_05219_KEGG,CobF,Unknown,Precorrin-5,SAM,H2O,"""=>""",Precorrin-6A ,SAH,Acetate,
+,,,cpd03839_c0,cpd00017_c0,cpd00001_c0,,cpd03761_c0,cpd00019_c0,cpd00029_c0,
+,,,,,,,,,,
+rxn_05150_KEGG,CobK,Unknown,Precorrin-6A,NADPH,H+,"""=>""",Precorrin-6B,NADP+,,
+,,,cpd03761_c0,cpd00005_c0,cpd00067_c0,,cpd03760_c0,cpd00006_c0,,
+,,,,,,,,,,
+rxn_05227_KEGG,CobNST,HVO_B0050 and HVO_0588 and HVO_0590,"hydrogenobyrinate a,c-diamide",Co2+,ATP,H2O,"""=>""","cobyrinate a,c-diamide",ADP,Phosphate
+,,,cpd03913_c0,cpd00149_c0,cpd00002_c0,cpd00001_c0,,cpd03914_c0,cpd00008_c0,cpd00009_c0
