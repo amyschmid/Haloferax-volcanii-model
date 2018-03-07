@@ -15,9 +15,11 @@ Files List:
 
 "Model curation and testing.ipynb": A Jupyter notebook in which everything was done AFTER the biomass equation was replaced. This is everything in the "Model curation" and "Testing and analysis" sections in the Methods.
 
-"gapfill_added.csv": A reaction table containing the 31 reactions automatically suggested my ModelSEED. In format to be added using the file "add_rxns_from_csv_table.py".
+"gapfill_added.csv": A reaction table containing the 31 reactions automatically suggested my ModelSEED. In format to be added using the script "add_rxns_from_csv_table.py".
 
-"Heme_enzyme_rxns.csv", "B12_missing_reactions_table.csv", "Lipid_enzymes_table.csv", and "final_missing_rxns.csv": Batches of reactions that were added to the model, in this order.
+"Heme_enzyme_rxns.csv", "B12_missing_reactions_table.csv", "Lipid_enzymes_table.csv", and "final_missing_rxns.csv": Batches of reactions that were added to the model, in this order. In format to be added using the script "add_rxns_from_csv_table.py".
+
+"biomass_from_Gonzalez.csv": The biomass sub-reactions from the Gonzalez et. al. Halobacterium model. In a format to be added using the script "add_rxn_table_with_coeffs_below.py".
 
 "reaction_CSV_format_notes.txt": Description of the CSV file format for adding reactions.
 
