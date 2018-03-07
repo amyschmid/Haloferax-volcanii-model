@@ -19,7 +19,7 @@ Files List:
 
 "Heme_enzyme_rxns.csv", "B12_missing_reactions_table.csv", "Lipid_enzymes_table.csv", and "final_missing_rxns.csv": Batches of reactions that were added to the model, in this order. In format to be added using the script "add_rxns_from_csv_table.py".
 
-"biomass_from_Gonzalez.csv": The biomass sub-reactions from the Gonzalez et. al. Halobacterium model. In a format to be added using the script "add_rxn_table_with_coeffs_below.py".
+"biomass_from_Gonzalez.csv": The (modified) biomass sub-reactions from the Gonzalez et. al. Halobacterium model. In a format to be added using the script "add_rxn_table_with_coeffs_below.py".
 
 "reaction_CSV_format_notes.txt": Description of the CSV file format for adding reactions.
 
