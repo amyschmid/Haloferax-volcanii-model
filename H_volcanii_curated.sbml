@@ -1139,7 +1139,7 @@
       <parameter constant="true" id="R_rxn05693_c0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_biomass0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00067_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00067_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd00067_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_EX_cpd00075_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd04097_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd11585_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
@@ -1149,23 +1149,22 @@
       <parameter constant="true" id="R_EX_cpd01012_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00635_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00082_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00082_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-20"/>
       <parameter constant="true" id="R_EX_cpd00080_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00001_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00001_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd00001_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_EX_cpd00023_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00971_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00971_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd00971_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_EX_cpd00058_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00107_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd01017_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00013_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00013_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd00013_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_EX_cpd00051_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00064_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd11591_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00009_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00009_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd00009_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_EX_cpd00034_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd11593_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd01171_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
@@ -1186,10 +1185,10 @@
       <parameter constant="true" id="R_EX_cpd00159_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd15606_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd10516_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd10516_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd10516_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_EX_cpd00030_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00149_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00149_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd00149_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_EX_cpd00099_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00531_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd11583_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
@@ -1201,10 +1200,10 @@
       <parameter constant="true" id="R_EX_cpd15604_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00322_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00104_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00104_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd00104_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_EX_cpd00205_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00007_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00007_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd00007_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_EX_cpd03424_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00098_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd11592_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
@@ -1215,7 +1214,7 @@
       <parameter constant="true" id="R_EX_cpd11581_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd11584_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00305_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00305_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd00305_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_EX_cpd00011_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00027_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd11416_c0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
@@ -1296,10 +1295,10 @@
       <parameter constant="true" id="R_rxn_02019_KEGG_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_rxn_00959_KEGG_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_rxn_00289_KEGG_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_test_biomass_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_EX_cpd00190_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
+      <parameter constant="true" id="R_EX_cpd00190_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-20"/>
       <parameter constant="true" id="R_EX_cpd00048_e0_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
-      <parameter constant="true" id="R_EX_cpd00048_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-100"/>
+      <parameter constant="true" id="R_EX_cpd00048_e0_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-300"/>
       <parameter constant="true" id="R_rxn_01068_KEGG_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_rxn_00342_KEGG_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_rxn_05875_KEGG_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
@@ -4073,7 +4072,7 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_rxn00519_c0" reversible="true" name="ITP_oxaloacetate_carboxy_lyase_adding_ITP_phosphoenolpyruvate_forming_c0" fbc:upperFluxBound="R_rxn00519_c0_upper_bound" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_rxn00519_c0" reversible="false" name="ITP_oxaloacetate_carboxy_lyase_adding_ITP_phosphoenolpyruvate_forming_c0" fbc:upperFluxBound="R_rxn00519_c0_upper_bound" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
           <speciesReference constant="true" species="M_cpd00032_c0" stoichiometry="1"/>
           <speciesReference constant="true" species="M_cpd00068_c0" stoichiometry="1"/>
@@ -11038,23 +11037,6 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_rxn04043_c0" reversible="true" name="ADP_D_fructose_6_phosphate_1_phosphotransferase_c0" fbc:upperFluxBound="cobra_0_bound" fbc:lowerFluxBound="cobra_default_lb">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_cpd00008_c0" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_cpd00072_c0" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_cpd00018_c0" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_cpd00067_c0" stoichiometry="2"/>
-          <speciesReference constant="true" species="M_cpd00290_c0" stoichiometry="1"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_fig"/>
-            <fbc:geneProductRef fbc:geneProduct="G_309800__SBML_DOT__54__SBML_DOT__peg__SBML_DOT__3555"/>
-          </fbc:or>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction fast="false" id="R_rxn00139_c0" reversible="false" name="AMP_diphosphate_phospho_D_ribosyltransferase_c0" fbc:upperFluxBound="R_rxn00139_c0_upper_bound" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
           <speciesReference constant="true" species="M_cpd00103_c0" stoichiometry="1"/>
@@ -17339,7 +17321,7 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_rxn00265_c0" reversible="true" name="citrate_oxaloacetate_lyase_forming_acetate_from_the_pro_S_carboxymethyl_group_of_citrate_c0" fbc:upperFluxBound="R_rxn00265_c0_upper_bound" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_rxn00265_c0" reversible="false" name="citrate_oxaloacetate_lyase_forming_acetate_from_the_pro_S_carboxymethyl_group_of_citrate_c0" fbc:upperFluxBound="R_rxn00265_c0_upper_bound" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
           <speciesReference constant="true" species="M_cpd00137_c0" stoichiometry="1"/>
         </listOfReactants>
@@ -30862,7 +30844,7 @@
           <speciesReference constant="true" species="M_cpd00635_e0" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_EX_cpd00082_e0" reversible="true" name="EX_D_Fructose_e0" fbc:upperFluxBound="R_EX_cpd00082_e0_upper_bound" fbc:lowerFluxBound="R_EX_cpd00082_e0_lower_bound">
+      <reaction fast="false" id="R_EX_cpd00082_e0" reversible="false" name="EX_D_Fructose_e0" fbc:upperFluxBound="R_EX_cpd00082_e0_upper_bound" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
           <speciesReference constant="true" species="M_cpd00082_e0" stoichiometry="1"/>
         </listOfReactants>
@@ -31743,7 +31725,7 @@
           <fbc:geneProductRef fbc:geneProduct="G_Unknown"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_rxn_05680_KEGG" reversible="true" name="Glycerol-1-phosphate reductase" fbc:upperFluxBound="R_rxn_05680_KEGG_upper_bound" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_rxn_05680_KEGG" reversible="true" name="Glycerol-1-phosphate dehydrogenase" fbc:upperFluxBound="R_rxn_05680_KEGG_upper_bound" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
           <speciesReference constant="true" species="M_cpd00005_c0" stoichiometry="1"/>
           <speciesReference constant="true" species="M_cpd00067_c0" stoichiometry="1"/>
@@ -31961,7 +31943,7 @@
           <speciesReference constant="true" species="M_cpd00504_c0" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_HVO_B0002"/>
+          <fbc:geneProductRef fbc:geneProduct="G_HVO_1096"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_rxn_02019_KEGG" reversible="false" name="Ribonucleotide reductase (GDP reaction)" fbc:upperFluxBound="R_rxn_02019_KEGG_upper_bound" fbc:lowerFluxBound="cobra_0_bound">
@@ -32002,15 +31984,7 @@
           <fbc:geneProductRef fbc:geneProduct="G_HVO_1527"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_test_biomass" reversible="false" fbc:upperFluxBound="R_test_biomass_upper_bound" fbc:lowerFluxBound="cobra_0_bound">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_cofactors_c0" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_cpd11416_c0" stoichiometry="1"/>
-        </listOfProducts>
-      </reaction>
-      <reaction fast="false" id="R_EX_cpd00190_e0" reversible="false" name="glucose_e0 exchange" fbc:upperFluxBound="R_EX_cpd00190_e0_upper_bound" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_EX_cpd00190_e0" reversible="true" name="glucose_e0 exchange" fbc:upperFluxBound="R_EX_cpd00190_e0_upper_bound" fbc:lowerFluxBound="R_EX_cpd00190_e0_lower_bound">
         <listOfReactants>
           <speciesReference constant="true" species="M_cpd00190_e0" stoichiometry="1"/>
         </listOfReactants>
